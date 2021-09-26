@@ -6,3 +6,5 @@ API_practice.ipynb
 random_numbers.ipynb
 
 */.ipynb_checkpoints/*
+
+*/__pycache__/*
