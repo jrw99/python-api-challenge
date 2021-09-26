@@ -4,3 +4,5 @@ api_keys.py
 # Adding ipynb files listed in instructions
 API_practice.ipynb
 random_numbers.ipynb
+
+*/.ipynb_checkpoints/*
