@@ -20,6 +20,8 @@ Repo for python api challenge
 
 <h3>Part II - VacationPy</h3>
 
-The following heat map wiht hotel markers shows 10 or less markers that are clickable and show the templated hotel info:
+The following heat map with hotel markers shows 10 or less markers that are clickable and show the templated hotel info:
+
+![](output_data/humidity_heat_map.png)
 
 ![](output_data/hotel_humidity_heat_map.png)
