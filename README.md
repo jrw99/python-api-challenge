@@ -13,7 +13,7 @@ Repo for python api challenge
     <li>Linear regression shows that Wind speed tracks to decrease in cities closer to the equator and increases as cities get further north or south of the equator.</li>
 </ul>
 
-<p><strong>*NOTE:</strong>The porcess that requests data via the weather api is throttled with sleep statements to ensure no more than 50 requests /min are made to ensure all requests are serviced and the rules of the free account are respected.  When you run that part, go grab a coffee and a snack as there are ususally around 12 or 13 sets to process...
+<p><strong>*NOTE:</strong> The porcess that requests data via the weather api is throttled with sleep statements to ensure no more than 50 requests/min are made to ensure all requests are serviced and the rules of the free account are respected.  When you run that part, go grab a coffee and a snack as there are ususally around 12 or 13 sets to process...
 
 
 
