@@ -1,6 +1,8 @@
 # python-api-challenge
 Repo for python api challenge
 
+<p><strong>**NOTE**:</strong> You will need to create a python file called "api_keys" and create 2 vars called "weather_api_key" and "g_key" and store valid api keys for the weather and google api's used in order to run this successfully.
+
 <h3>Part I - WeatherPy</h3>
 
 <h4>Observations</h4>
@@ -16,4 +18,4 @@ Repo for python api challenge
 <p><strong>*NOTE:</strong> The porcess that requests data via the weather api is throttled with sleep statements to ensure no more than 50 requests/min are made to ensure all requests are serviced and the rules of the free account are respected.  When you run that part, go grab a coffee and a snack as there are ususally around 12 or 13 sets to process...
 
 
-
+<h3>Part II - VacationPy</h3>
